@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SocialNexus AI",
+  "description": "An AI-powered social media management platform that researches competitors, builds content pillars, generates high-quality posts, and schedules content across multiple platforms.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
